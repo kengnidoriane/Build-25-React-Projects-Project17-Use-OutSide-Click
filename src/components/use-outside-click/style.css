@@ -1,0 +1,11 @@
+.outside {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 1rem;
+  
+}
