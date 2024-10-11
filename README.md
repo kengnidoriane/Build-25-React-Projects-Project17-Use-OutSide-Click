@@ -1,4 +1,4 @@
-# Mini Projet React : Affichage de Texte avec un Bouton
+# Use Outside Click
 
 Ce projet React simple permet d'afficher un texte lorsque l'on clique sur un bouton. Lorsque l'on clique en dehors du champ de texte, le texte disparaît et le bouton réapparaît.
 
@@ -13,19 +13,20 @@ Ce projet React simple permet d'afficher un texte lorsque l'on clique sur un bou
 1. Clonez le dépôt :
   
    ```bash
-   git clone https://github.com/votre-utilisateur/mini-projet-react.git
+   git clone https://github.com/Build-25-React-Projects-Project17-Use-OutSide-Click.git
 
 Accédez au répertoire du projet :
 
    ```bash
-   cd mini-projet-react
+   cd Build-25-React-Projects-Project17-Use-OutSide-Click 
 
-Installez les dépendances :
+2. Installez les dépendances :
 
    ```bash
    npm install
 
-Démarrez l'application :
+3. Démarrez l'application :
+
    ```bash
    npm start
 
